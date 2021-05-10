@@ -1,8 +1,7 @@
+<html>
 layout: page
 title: "Certificates"
 permalink: /certs/
-
-<html>
 			<h2>Certificates</h2>
 						<div class="row">
 							<article class="col-6 col-12-xsmall work-item">
@@ -38,5 +37,5 @@ permalink: /certs/
                                 <p>Coding a 2d platformer game with Unity.</p>
 							</article>
 						</div>
-					</section>
+					
                     </html>
