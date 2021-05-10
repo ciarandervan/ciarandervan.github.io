@@ -1,5 +1,13 @@
+<!DOCTYPE html>
 <html>
-	
+<head>
+<style> 
+body {
+  background-image: url("images/fulls/04.jpg");
+  background-color: #cccccc;
+}
+</style>
+</head>
 			<h2>Certificates</h2>
 						<div class="row">
 							<article class="col-6 col-12-xsmall work-item">
