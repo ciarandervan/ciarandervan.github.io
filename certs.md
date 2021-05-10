@@ -1,4 +1,5 @@
 <html>
+	
 layout: page
 title: "Certificates"
 permalink: /certs/
@@ -37,5 +38,4 @@ permalink: /certs/
                                 <p>Coding a 2d platformer game with Unity.</p>
 							</article>
 						</div>
-					
-                    </html>
+					</html>
