@@ -1,12 +1,9 @@
-layout: page
-title: "Curriculum Vitae"
-permalink: /cv/
 
 <html>
 	<h2>Curriculum Vitae</h2>
 						<div class="row">
 							<article class="col-6 col-12-xsmall work-item">
-								<embed src="files/Ciarán Dervan CV.pdf" type="application/pdf" width="100%" height="1080px" scrollbar=1/>
+								<embed src="files/Ciarán Dervan CV.pdf" type="application/pdf" width="200%" height="2000px" scrollbar=1/>
 								<p></p>
 							</article>
               <body>
