@@ -2,47 +2,41 @@ layout: page
 title: "Certificates"
 permalink: /certs/
 
-
-						<h2>Certificates</h2>
+<html>
+			<h2>Certificates</h2>
 						<div class="row">
 							<article class="col-6 col-12-xsmall work-item">
-								<embed src="files/google certificate.pdf" type="application/pdf" width="100%" height="600px" />
-								<p>Certificate awarded by Google Digital Garage on the Fundamentals of Marketing.</p>
+								<embed src="files/google certificate.pdf" type="application/pdf" width="100%" height="300px" />
+								<p>Google Digital Garage: the Fundamentals of Marketing.</p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
-								<img src="images/thumbs/02.jpg" alt="", width=340, height=340 /></a>
-								<body>
-									<a href="https://ciarandervan.github.io/data"><h3 style="color:rgb(13, 192, 168)">Data Analytics and Visualization</h3></a>
-								</body>
-								<p>A showcase of what I can do.</p>
+								<embed src="files/excel cert.pdf" type="application/pdf" width="100%" height="300px" />
+								<p>Advanced features of Microsoft Excel .</p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
-								<img src="images/thumbs/05.jpg" alt="", width=340, height=340 /></a>
-								<body>
-									<a href="https://ciarandervan.github.io/certs"><h3 style="color:rgb(13, 192, 168)">Certificates</h3></a>
-								</body>
-								<p>Certificates I have received from online courses.</p>
+								<embed src="files/pythoncertificate.pdf" type="application/pdf" width="100%" height="300px" />
+								<p>Python for Data Analytics and Visualization</p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
-								<img src="images/thumbs/03.jpg" alt="", width=340, height=340 /></a>
-								<body>
-									<a href="https://ciarandervan.github.io/ma"><h3 style="color:rgb(13, 192, 168)">MA Thesis and Transcript</h3></a>
-								</body>
-								<p>My Master's thesis and transcripts from my postgrad.</p>
+								<embed src="files/spss cert.pdf" type="application/pdf" width="100%" height="300px" />
+								<p>Statistics with SPSS</p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
-								<img src="images/thumbs/04.jpg" alt="", width=340, height=340 /></a>
-								<body>
-									<a href="https://ciarandervan.github.io/ba"><h3 style="color:rgb(13, 192, 168)">BA Thesis and Transcript</h3></a>
-								</body>
-								<p>My Bachelor's dissertation and transcripts from my undergrad.</p>
+								<embed src="files/crm cert.pdf" type="application/pdf" width="100%" height="300px" />
+								<p>Catch-all CRM Course</p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
-								<img src="images/thumbs/06.jpg" alt="", width=340, height=340 /></a>
-								<body>
-									<a href="https://ciarandervan.github.io/pastimes"><h3 style="color:rgb(13, 192, 168)">Pastimes</h3></a>
-								</body>
-								<p>A collection of some of the pieces I've made in my spare time for fun.</p>
+								<embed src="files/Hubspot cert.pdf" type="application/pdf" width="100%" height="300px" />
+								<p>Hubspot CRM course</p>
+                            </article>
+                            <article class="col-6 col-12-xsmall work-item">
+								<embed src="files/csharpbeginnercertificate.pdf" type="application/pdf" width="100%" height="300px" />
+                                <p>C sharp beginner course</p>
+							</article>
+                            <article class="col-6 col-12-xsmall work-item">
+								<embed src="files/2dplatformercertificate.pdf" type="application/pdf" width="100%" height="300px" />
+                                <p>Coding a 2d platformer game with Unity</p>
 							</article>
 						</div>
 					</section>
+                    </html>
