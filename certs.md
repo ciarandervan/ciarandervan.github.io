@@ -1,8 +1,5 @@
 <html>
 	
-layout: page
-title: "Certificates"
-permalink: /certs/
 			<h2>Certificates</h2>
 						<div class="row">
 							<article class="col-6 col-12-xsmall work-item">
