@@ -1,6 +1,6 @@
 layout: page
 title: Certificates
-permalink: /certs/
+permalink: /certs
 
 
 
