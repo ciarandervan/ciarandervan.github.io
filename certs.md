@@ -23,7 +23,7 @@ permalink: /certs/
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
 								<embed src="certs/crm cert.pdf" type="application/pdf" width="100%" height="300px" />
-								<p>Catch-all CRM Course.</p>
+								<p>Catch-all CRM course.</p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
 								<embed src="certs/Hubspot cert.pdf" type="application/pdf" width="100%" height="300px" />
