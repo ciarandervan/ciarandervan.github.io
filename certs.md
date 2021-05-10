@@ -6,7 +6,7 @@ permalink: /certs/
 			<h2>Certificates</h2>
 						<div class="row">
 							<article class="col-6 col-12-xsmall work-item">
-								<embed src="https://ciarandervan.github.io/files/google certificate.pdf" type="application/pdf" width="100%" height="300px" />
+								<embed src="files/google certificate.pdf" type="application/pdf" width="100%" height="300px" scrollbar=1 />
 								<p>Google Digital Garage: the Fundamentals of Marketing.</p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
@@ -26,7 +26,7 @@ permalink: /certs/
 								<p>Catch-all CRM course.</p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
-								<embed src="files/Hubspot cert.pdf" type="application/pdf" width="100%" height="300px" />
+								<embed src="files/Hubspot Cert.pdf" type="application/pdf" width="100%" height="300px" />
 								<p>Hubspot CRM course.</p>
                             </article>
                             <article class="col-6 col-12-xsmall work-item">
