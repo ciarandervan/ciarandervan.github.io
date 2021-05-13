@@ -10,7 +10,7 @@
 							
 							<div class="row">
 							<article class="col-6 col-12-xsmall work-item">
-								<embed src="files/DERVAN.15570547.DISSERTATION.docx" type="application/pdf" width="140%" height="2000px" scrollbar=1/>
+								<embed src="files/MAthesis.pdf" type="application/pdf" width="140%" height="2000px" scrollbar=1/>
 								<p></p>
 							</article>
 							</div>
