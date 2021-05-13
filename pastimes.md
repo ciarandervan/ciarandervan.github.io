@@ -47,10 +47,10 @@ img {margin-bottom: -7px}
 <!-- Photo Grid -->
 <div class="w3-row" id="myGrid" style="margin-bottom:128px">
   <div class="w3-third">
-    <img src="/w3images/rocks.jpg" style="width:100%">
-    <img src="/w3images/sound.jpg" style="width:100%">
-    <img src="/w3images/woods.jpg" style="width:100%">
-    <img src="/w3images/rock.jpg" style="width:100%">
+    <img src="/images/11.jpg" style="width:100%">
+    <img src="/images/12.jpg" style="width:100%">
+    <img src="/images/13.jpg" style="width:100%">
+    <img src="/images/14.jpg" style="width:100%">
     <img src="/w3images/nature.jpg" style="width:100%">
     <img src="/w3images/mist.jpg" style="width:100%">
   </div>
