@@ -1,6 +1,4 @@
-layout: page
-title: "BA Dissertation and Transcripts"
-permalink: /ba/
+<html>
 
 <h2>BA Thesis and Academic Transcript</h2>
 					<div class="row">
