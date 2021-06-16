@@ -2,6 +2,7 @@
 	
 	<h2>MA Thesis and Academic Transcript</h2>
 						<div class="row">
+							<h3> Master's transcript </h3>
 							<article class="col-6 col-12-xsmall work-item">
 								<embed src="files/Academic Transcript MA.pdf" type="application/pdf" width="140%" height="2000px" scrollbar=1/>
 								<p></p>
@@ -9,6 +10,7 @@
 							</div>
 							
 							<div class="row">
+							<h3> Master's Thesis </h3>
 							<article class="col-6 col-12-xsmall work-item">
 								<embed src="files/MAthesis.pdf" type="application/pdf" width="140%" height="2000px" scrollbar=1/>
 								<p></p>
