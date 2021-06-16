@@ -7,7 +7,7 @@
 				<!-- One -->
 					<section id="one">
 						<header class="major">
-							<h2 style="color:rgb(95,158,160)">Some examples of the softwares I can use and projects I've done using them. </h2>
+							<h2 style="color:rgb(95,158,160)">Software products I can use.</h2>
 						</header>
 
 				<!-- Two -->
