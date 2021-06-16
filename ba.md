@@ -2,7 +2,7 @@ layout: page
 title: "BA Dissertation and Transcripts"
 permalink: /ba/
 
-<h2>MA Thesis and Academic Transcript</h2>
+<h2>BA Thesis and Academic Transcript</h2>
 					<div class="row">
 						<article class="col-6 col-12-xsmall work-item">
 							<embed src="Academic Transcript BA.pdf" type="application/pdf" width="140%" height="2000px" scrollbar=1/>
