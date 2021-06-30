@@ -15,18 +15,14 @@
 							</article>
 							
 						<article class="col-6 col-12-xsmall work-item">
-							<img src="images/ps.png" alt="", width=340, height=340 /></a>
+							<img src="images/ae.png" alt="", width=340, height=340 /></a>
 						</article>
 	
 						<article class="col-6 col-12-xsmall work-item">
 							<img src="images/gg.png" alt="", width=340, height=340 /></a>
 						</article>
 						
-						<article class="col-6 col-12-xsmall work-item">
-							<img src="images/thumbs/03.jpg" alt="", width=340, height=340 /></a>
-							<body>
-								<a href="https://ciarandervan.github.io/ma"><h3 style="color:rgb(95,158,160)">MA THESIS AND TRANSCRIPT</h3></a>
-							</body>
+					
 						
 		
  <body>
