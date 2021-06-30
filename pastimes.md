@@ -19,21 +19,22 @@
 <div class="row">
 							
 							<div class="column">
-								<img src="images/12.JPG" width="300" height="300"/>
+								<img src="images/12.JPG" style="width:100%"/>
 	                                                </div>
 							 <div class="column">
-								<img src="images/13.JPG" width="300" height="300"/>
+								<img src="images/13.JPG" style="width:100%"/>
 	                                                </div>
 							 <div class="column">
-								<img src="images/14.JPG" width="300" height="300"/>
+								<img src="images/14.JPG" style="width:100%"/>
 	                                                </div>
 							 <div class="column">
-								<img src="images/11.JPG" width="300" height="300"/>
+								<img src="images/11.JPG" style="width:100%"/>
 	                                                </div>
 							 <div class="column">
-								<img src="images/15.JPG" width="300" height="300"/>
+								<img src="images/15.JPG" style="width:100%"/>
 	                                                </div>
 							
+	<body>
  <a href="https://ciarandervan.github.io"><h3 style="color:rgb((95,158,160)">Back to Home</h3></a>
-								
+	</body>
 							
