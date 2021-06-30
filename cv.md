@@ -4,7 +4,7 @@
 						<div class="row">
 							<article class="col-6 col-12-xsmall work-item">
 								<embed src="files/Ciarán Dervan CV.pdf" type="application/pdf" width="120%" height="2000px" scrollbar=1/>
-								<p></p>
+								
 							</article>
              
 	<h2> Proficiencies </h2>
@@ -13,7 +13,7 @@
 						
 						<div class="row">
                                               <div class="column">
-							<img src="https://ciarandervan.github.io/images/ae.png" alt="After Effects", width=100%/></a>
+							<img src="https://ciarandervan.github.io/images/thumbs/ae.png" alt="After Effects", width=100%/></a>
 							</div>
 					    <div class="column">
 							<img src=""https://ciarandervan.github.io/images/ps.png" alt="Photoshop", width=100%/></a>
