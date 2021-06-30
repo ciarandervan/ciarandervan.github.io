@@ -34,7 +34,7 @@
 						
 						<div class="row">
                                               <div class="column">
-							<img src="images/thumbs/ae.png" alt="After Effects", width=100%/></a>
+							<img src="images/thumbs/ae.PNG" alt="After Effects", width=100%/></a>
 							</div>
 					    <div class="column">
 							<img src=""https://ciarandervan.github.io/images/ps.png" alt="Photoshop", width=100%/></a>
