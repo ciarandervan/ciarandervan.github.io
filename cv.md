@@ -7,20 +7,19 @@
 								<p></p>
 							</article>
              
-	<h2> Software/products I use </h2>
-							
-							
-						<article class="col-6 col-12-xsmall work-item">
+	<h2> Proficiencies </h2>
+			
 							<h3> Image and Video Editing </h3>
-							</article>
+						
 							
-						<article class="col-6 col-12-xsmall work-item">
-							<img src="http:/ciarandervan.github.io/images/ae.png" alt="", width=340, height=340 /></a>
-						</article>
-	
-						<article class="col-6 col-12-xsmall work-item">
-							<img src="images/gg.png" alt="", width=340, height=340 /></a>
-						</article>
+						<div class="row">
+                                              <div class="column">
+							<img src="https://ciarandervan.github.io/images/ae.png" alt="", width=340, height=340 /></a>
+							</div>
+	<div class="row">
+                                              <div class="column">
+							<img src=""https://ciarandervan.github.io/images/gg.png" alt="", width=340, height=340 /></a>
+														       </div>
 						
 					
 						
