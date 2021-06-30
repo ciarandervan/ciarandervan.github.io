@@ -8,6 +8,27 @@
 							</article>
              
 	<h2> Proficiencies </h2>
+							<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
 			
 							<h3> Image and Video Editing </h3>
 						
@@ -28,3 +49,5 @@
  <body>
 									<a href="https://ciarandervan.github.io"><h3 style="color:rgb(13, 192, 168)">Back to Home</h3></a>
 								 </body>
+
+	</html>
