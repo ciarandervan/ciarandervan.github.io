@@ -15,7 +15,7 @@
 							</article>
 							
 						<article class="col-6 col-12-xsmall work-item">
-							<img src="images/ae.png" alt="", width=340, height=340 /></a>
+							<img src="http:/ciarandervan.github.io/images/ae.png" alt="", width=340, height=340 /></a>
 						</article>
 	
 						<article class="col-6 col-12-xsmall work-item">
