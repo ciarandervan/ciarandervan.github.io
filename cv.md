@@ -11,15 +11,16 @@
 			
 							<h3> Image and Video Editing </h3>
 						
-							
 						<div class="row">
                                               <div class="column">
-							<img src="https://ciarandervan.github.io/images/ae.png" alt="", width=340, height=340 /></a>
+							<img src="https://ciarandervan.github.io/images/ae.png" alt="After Effects", width=100%/></a>
 							</div>
-	<div class="row">
+					    <div class="column">
+							<img src=""https://ciarandervan.github.io/images/ps.png" alt="Photoshop", width=100%/></a>
+						         </div>	
                                               <div class="column">
-							<img src=""https://ciarandervan.github.io/images/gg.png" alt="", width=340, height=340 /></a>
-														       </div>
+							<img src=""https://ciarandervan.github.io/images/gg.png" alt="GIMP", width=100%/></a>
+						         </div>
 						
 					
 						
