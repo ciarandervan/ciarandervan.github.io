@@ -7,6 +7,9 @@
 								<p>Google Digital Garage: the Fundamentals of Marketing.</p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
+								<embed src="files/CodeInstitute.pdf" type="application/pdf" width="100%" height="300px" />
+								<p>The Code Institute: 5 day Coding Challenge</p>
+							<article class="col-6 col-12-xsmall work-item">
 								<embed src="files/excel cert.pdf" type="application/pdf" width="100%" height="300px" />
 								<p>Advanced features of Microsoft Excel.</p>
 							</article>
