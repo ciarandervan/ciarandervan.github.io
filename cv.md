@@ -66,7 +66,10 @@
 							 <div class="column">
 								<img src="images/logos/rmarkdown.png" style="width:100%"/>
 								 <p> R Markdown </p> 
+						        <div class="column">
+								<img src="images/logos/16x16.png" style="width:100%" />
 	                                                </div>
+								 <p></p>
 								<div class="column">
 								<img src="images/logos/ps.png" style="width:100%"/>
 								<p> Adobe Photoshop </p>
