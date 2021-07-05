@@ -42,7 +42,28 @@
                                               <div class="column">
 							<img src="images/gg.png" alt="GIMP", width=100%/>
 						         </div>
+							
+							<h3> Statistics and Analytics </h3>
 						
+					<div class="row">
+                                              <div class="column">
+							 <img src="images/e.jpg" alt="Excel", width=100% > 
+							</div>
+					    <div class="column">
+							<img src="images/sp.png" alt="SPSS", width=100% />
+						         </div>	
+                                              <div class="column">
+							<img src="images/j.jpg" alt="Jamovi", width=100%/>
+						         </div>
+						<div class="column">
+							<img src="images/gg.png" alt="RMarkdown", width=100%/>
+						         </div>
+						<div class="column">
+							<img src="images/gg.png" alt="Tableau", width=100%/>
+						         </div>
+						<div class="column">
+							<img src="images/gg.png" alt="SQL", width=100%/>
+						         </div>
 					
 						
 		
