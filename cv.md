@@ -28,6 +28,7 @@
 </style>
 
 		 <h2> Proficiencies </h2>
+							<section>
 							<h3> Statistics and Analytics </h3>
 						
 						<div class="row">
@@ -53,7 +54,7 @@
 	                                                </div>
 							 <div class="column">
 								<img src="images/logos/ga.png" style="width:100%"/>
-								 <p> Tableau </p> 
+								 <p> Google Analytics </p> 
 	                                                </div>
 							 <div class="column">
 								<img src="images/logos/p.png" style="width:100%"/>
@@ -63,7 +64,10 @@
 								<img src="images/logos/rmarkdown.png" style="width:100%"/>
 								 <p> R Markdown </p> 
 	                                                </div>
-							
+							</section>
+								
+								
+							<section>
 								<h3> Image/Video/Music Editing </h3>
 						
 						<div class="row">
@@ -72,17 +76,22 @@
 								<p> Adobe Photoshop </p>
 	                                                </div>
 							 <div class="column">
-								<img src="images/13.JPG" style="width:100%"/>
+								<img src="images/logos/gg.png" style="width:100%"/>
+								 <p> GIMP </p>
 	                                                </div>
 							 <div class="column">
-								<img src="images/14.JPG" style="width:100%"/>
+								<img src="images/logos/ae.png" style="width:100%"/>
+								 <p> Adobe After Effects </p>
 	                                                </div>
 							 <div class="column">
-								<img src="images/11.JPG" style="width:100%"/>
+								<img src="images/logos/bl.jpg" style="width:100%"/>
+								 <p> Blender </p> 
 	                                                </div>
 							 <div class="column">
-								<img src="images/15.JPG" style="width:100%"/>
+								<img src="images/logos/pp.png" style="width:100%"/>
+								 <p> Adobe Premiere Pro </p>
 	                                                </div>
+							</section>
 		
  <body>
 									<a href="https://ciarandervan.github.io"><h3 style="color:rgb(13, 192, 168)">Back to Home</h3></a>
