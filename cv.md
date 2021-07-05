@@ -69,10 +69,11 @@
 							<div class="column">
 								<img src="images/logos/16x16.png" style="width:100%" />
 							</div>
-						<br>
-							</br>
+						
 								
+							<div>
 								
+							</div>
 							<h3> Image, Video, and Audio Editing </h3>
 						<div class="row">
 							<div class="column">
