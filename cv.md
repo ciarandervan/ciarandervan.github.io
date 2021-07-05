@@ -26,15 +26,13 @@
   display: table;
 }
 </style>
-</head>
-<body>
-<html>
-			 <h2> Proficiencies </h2>
+
+		 <h2> Proficiencies </h2>
 							<h3> Image and Video Editing </h3>
 						
 						<div class="row">
                                               <div class="column">
-							 <img src="images/ae.png" alt="After Effects", width=100% > 
+							 <img src="images/ae.png" alt="After Effects", style="width"=100% /> 
 							</div>
 					    <div class="column">
 							<img src="images/ps.png" alt="Photoshop", width=100% />
@@ -45,9 +43,8 @@
 							
 							<h3> Statistics and Analytics </h3>
 						
-					<div class="row">
                                               <div class="column">
-							 <img src="images/e.jpg" alt="Excel", width=100% > 
+							<img src="images/e.jpg" alt="Excel", style="width"=100% /> 
 							</div>
 					    <div class="column">
 							<img src="images/sp.png" alt="SPSS", width=100% />
