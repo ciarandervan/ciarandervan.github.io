@@ -28,7 +28,7 @@
 </style>
 </head>
 <body>
-
+<html>
 			 <h2> Proficiencies </h2>
 							<h3> Image and Video Editing </h3>
 						
@@ -59,10 +59,10 @@
 							<img src="images/gg.png" alt="RMarkdown", width=100%/>
 						         </div>
 						<div class="column">
-							<img src="images/gg.png" alt="Tableau", width=100%/>
+							<img src="images/t.jpg" alt="Tableau", width=100%/>
 						         </div>
 						<div class="column">
-							<img src="images/gg.png" alt="SQL", width=100%/>
+							<img src="images/s.jpg" alt="SQL", width=100%/>
 						         </div>
 					
 						
