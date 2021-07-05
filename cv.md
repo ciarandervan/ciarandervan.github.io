@@ -71,9 +71,8 @@
 							
 								
 								
-						
-						<div class="row">
 							<h3> Image/Video/Music Editing </h3>
+						<div class="row">
 							<div class="column">
 								<img src="images/logos/ps.png" style="width:100%"/>
 								<p> Adobe Photoshop </p>
