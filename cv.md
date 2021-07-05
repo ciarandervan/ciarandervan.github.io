@@ -47,6 +47,26 @@
 							 <div class="column">
 								<img src="images/15.JPG" style="width:100%"/>
 	                                                </div>
+							
+								<h3> Image and Video Editing </h3>
+						
+						<div class="row">
+							<div class="column">
+								<img src="images/logos/ps.png" style="width:100%"/>
+								<p> Adobe Photoshop </p>
+	                                                </div>
+							 <div class="column">
+								<img src="images/13.JPG" style="width:100%"/>
+	                                                </div>
+							 <div class="column">
+								<img src="images/14.JPG" style="width:100%"/>
+	                                                </div>
+							 <div class="column">
+								<img src="images/11.JPG" style="width:100%"/>
+	                                                </div>
+							 <div class="column">
+								<img src="images/15.JPG" style="width:100%"/>
+	                                                </div>
 		
  <body>
 									<a href="https://ciarandervan.github.io"><h3 style="color:rgb(13, 192, 168)">Back to Home</h3></a>
