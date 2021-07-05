@@ -7,7 +7,7 @@
 								
 							</article>
              
-	<h2> Proficiencies </h2>
+	
 							<style>
 * {
   box-sizing: border-box;
@@ -29,12 +29,12 @@
 </head>
 <body>
 
-			
+			 <h2> Proficiencies </h2>
 							<h3> Image and Video Editing </h3>
 						
 						<div class="row">
                                               <div class="column">
-							<img src="images/thumbs/ae.PNG" alt="After Effects", width=100%/></a>
+							<img src="images/thumbs/ae.PNG" alt="After Effects"/></a>
 							</div>
 					    <div class="column">
 							<img src=""https://ciarandervan.github.io/images/ps.png" alt="Photoshop", width=100%/></a>
@@ -50,4 +50,4 @@
 									<a href="https://ciarandervan.github.io"><h3 style="color:rgb(13, 192, 168)">Back to Home</h3></a>
 								 </body>
 
-	</html>
+
