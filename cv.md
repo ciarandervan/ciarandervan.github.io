@@ -44,7 +44,7 @@
 							<h3> Statistics and Analytics </h3>
 						
                                               <div class="column">
-							<img src="https://github.com/ciarandervan/ciarandervan.github.io/blob/main/images/e.jpg" alt="Excel", style="width"=100% /> 
+							<img src="images/e.JPG" alt="Excel" style="width"=100% /> 
 							</div>
 					    <div class="column">
 							<img src="images/sp.png" alt="SPSS", width=100% />
