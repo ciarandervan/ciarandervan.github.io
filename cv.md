@@ -28,40 +28,9 @@
 </style>
 
 		 <h2> Proficiencies </h2>
-							<h3> Image and Video Editing </h3>
-						
-						<div class="row">
-                                              <div class="column">
-							 <img src="images/ae.png" alt="After Effects", style="width"=100% /> 
-							</div>
-					    <div class="column">
-							<img src="images/ps.png" alt="Photoshop", width=100% />
-						         </div>	
-                                              <div class="column">
-							<img src="images/gg.png" alt="GIMP", width=100%/>
-						         </div>
-							
 							<h3> Statistics and Analytics </h3>
 						
-                                              <div class="column">
-							<img src="images/logos/e.jpg", alt="Excel" style="width"=100% /> 
-							</div>
-					    <div class="column">
-							<img src="images/sp.png" alt="SPSS", width=100% />
-						         </div>	
-                                              <div class="column">
-							<img src="images/j.jpg" alt="Jamovi", width=100%/>
-						         </div>
-						<div class="column">
-							<img src="images/gg.png" alt="RMarkdown", width=100%/>
-						         </div>
-						<div class="column">
-							<img src="images/t.jpg" alt="Tableau", width=100%/>
-						         </div>
-						<div class="column">
-							<img src="images/s.jpg" alt="SQL", width=100%/>
-						         </div>
-							
+						<div class="row">
 							<div class="column">
 								<img src="images/logos/e.jpg" style="width:100%"/>
 	                                                </div>
