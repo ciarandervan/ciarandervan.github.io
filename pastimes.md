@@ -1,7 +1,5 @@
-
-
-
-
+<html>
+	<h1> Just a few of the things I enjoy making </h1>
 <style>
 * {
   box-sizing: border-box;
