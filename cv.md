@@ -29,6 +29,7 @@
 
 		 <h2> Proficiencies </h2>
 							<section>
+								
 							<h3> Statistics and Analytics </h3>
 						
 						<div class="row">
@@ -64,10 +65,13 @@
 								<img src="images/logos/rmarkdown.png" style="width:100%"/>
 								 <p> R Markdown </p> 
 	                                                </div>
+							</article>
+							
 							</section>
 								
 								
 							<section>
+								
 								<h3> Image/Video/Music Editing </h3>
 						
 						<div class="row">
@@ -80,17 +84,22 @@
 								 <p> GIMP </p>
 	                                                </div>
 							 <div class="column">
-								<img src="images/logos/ae.png" style="width:100%"/>
+								<img src="images/logos/20.png" style="width:100%"/>
 								 <p> Adobe After Effects </p>
 	                                                </div>
 							 <div class="column">
-								<img src="images/logos/bl.jpg" style="width:100%"/>
+								<img src="images/logos/bl.png" style="width:100%"/>
 								 <p> Blender </p> 
 	                                                </div>
 							 <div class="column">
 								<img src="images/logos/pp.png" style="width:100%"/>
 								 <p> Adobe Premiere Pro </p>
 	                                                </div>
+							 <div class="column">
+								<img src="images/logos/au.png" style="width:100%"/>
+								 <p> Audacity </p>
+	                                                </div>
+							
 							</section>
 		
  <body>
