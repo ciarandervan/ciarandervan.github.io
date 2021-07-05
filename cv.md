@@ -1,5 +1,8 @@
 
 <html>
+	 <body>
+									<a href="https://ciarandervan.github.io"><h3 style="color:rgb(13, 192, 168)">Back to Home</h3></a>
+								 </body>
 	<h2>Curriculum Vitae</h2>
 						<div class="row">
 							<article class="col-6 col-12-xsmall work-item">
@@ -69,10 +72,6 @@
 								<p> Adobe Photoshop </p>
 	                                                </div>
 							 <div class="column">
-								<img src="images/logos/gg.png" style="width:100%"/>
-								 <p> GIMP </p>
-	                                                </div>
-							 <div class="column">
 								<img src="images/logos/20.png" style="width:100%"/>
 								 <p> Adobe After Effects </p>
 	                                                </div>
@@ -86,10 +85,12 @@
 							 <div class="column">
 								<img src="images/logos/bl.png" style="width:100%"/>
 								 <p> Blender </p> 
+						         </div>
+								 <div class="column">
+								<img src="images/logos/gg.png" style="width:100%"/>
+								 <p> GIMP </p>
 								 </div>
 						
- <body>
-									<a href="https://ciarandervan.github.io"><h3 style="color:rgb(13, 192, 168)">Back to Home</h3></a>
-								 </body>
+
 
 
