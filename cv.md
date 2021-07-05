@@ -28,7 +28,7 @@
 </style>
 
 		 <h2> Proficiencies </h2>
-							<section>
+						
 								
 							<h3> Statistics and Analytics </h3>
 						
@@ -67,10 +67,7 @@
 	                                                </div>
 							</article>
 							
-							</section>
-								
-								
-							<section>
+							
 								
 								<h3> Image/Video/Music Editing </h3>
 						
@@ -99,8 +96,7 @@
 								<img src="images/logos/au.png" style="width:100%"/>
 								 <p> Audacity </p>
 	                                                </div>
-							
-							</section>
+						
 		
  <body>
 									<a href="https://ciarandervan.github.io"><h3 style="color:rgb(13, 192, 168)">Back to Home</h3></a>
