@@ -32,7 +32,7 @@
 						
 						<div class="row">
 							<div class="column">
-								<img src="images/logos/e.jpg" style="width:100%"/>
+								<img src="images/logos/e.jpg", alt="Excel" style="width:100%"/>
 	                                                </div>
 							 <div class="column">
 								<img src="images/13.JPG" style="width:100%"/>
