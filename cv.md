@@ -30,8 +30,6 @@
 
 		 <h2> Proficiencies </h2>
 						
-								
-							<h3> Statistics and Analytics </h3>
 						
 						<div class="row">
 							<div class="column">
@@ -67,13 +65,6 @@
 								 <p> R Markdown </p> 
 	                                                </div>
 							<div class="column">
-								<img src="images/logos/16x16.png" style="width:100%" />
-							</div>
-							<p></p>
-						
-							<h3> Image, Video, and Audio Editing </h3>
-						<div class="row">
-							<div class="column">
 								<img src="images/logos/ps.png" style="width:100%"/>
 								<p> Adobe Photoshop </p>
 	                                                </div>
@@ -95,9 +86,7 @@
 							 <div class="column">
 								<img src="images/logos/bl.png" style="width:100%"/>
 								 <p> Blender </p> 
-	                                                </div>
-							
-	                                                </div>
+								 </div>
 						
  <body>
 									<a href="https://ciarandervan.github.io"><h3 style="color:rgb(13, 192, 168)">Back to Home</h3></a>
