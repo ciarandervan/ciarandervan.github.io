@@ -6,10 +6,15 @@
 
 				<!-- One -->
 					<section id="one">
-						<header class="major">
-							<h2 style="color:rgb(95,158,160)"></h2>
-						</header>
-
+						
+							<h3>I was recently awarded a Second Class Honours grade DCU business school for Data Analytics and Visualization </h3>
+					<div class="row">
+							<article class="col-6 col-12-xsmall work-item">
+								<embed src="files/Document.pdf" type="application/pdf" width="120%" height="2000px" scrollbar=1/>
+								
+							</article>
+						
+						 
 				<!-- Two -->
 					<section id="two">
 						<style>
