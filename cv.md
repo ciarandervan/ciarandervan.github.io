@@ -66,35 +66,4 @@
 							 <div class="column">
 								<img src="images/logos/rmarkdown.png" style="width:100%"/>
 								 <p> R Markdown </p> 
-						        <div class="column">
-								<img src="images/logos/16x16.png" style="width:100%" />
-	                                                </div>
-								 <p></p>
-								<div class="column">
-								<img src="images/logos/ps.png" style="width:100%"/>
-								<p> Adobe Photoshop </p>
-	                                                </div>
-							 <div class="column">
-								<img src="images/logos/20.png" style="width:100%"/>
-								 <p> Adobe After Effects </p>
-	                                                </div>
-							 <div class="column">
-								<img src="images/logos/pp.png" style="width:100%"/>
-								 <p> Adobe Premiere Pro </p>
-	                                                </div>
-							 <div class="column">
-								<img src="images/logos/au.png" style="width:100%"/>
-								 <p> Audacity </p>
 							</div>
-							 <div class="column">
-								<img src="images/logos/bl.png" style="width:100%"/>
-								 <p> Blender </p> 
-						         </div>
-								 <div class="column">
-								<img src="images/logos/gg.png" style="width:100%"/>
-								 <p> GIMP </p>
-								 </div>
-						
-
-
-
