@@ -36,19 +36,35 @@
 								<p> Microsoft Excel </p>
 	                                                </div>
 							 <div class="column">
-								<img src="images/13.JPG" style="width:100%"/>
+								<img src="images/logos/sp.png" style="width:100%"/>
+								 <p> SPSS </p>
 	                                                </div>
 							 <div class="column">
-								<img src="images/14.JPG" style="width:100%"/>
+								<img src="images/logos/j.jpg" style="width:100%"/>
+								 <p> Jamovi </p> 
 	                                                </div>
 							 <div class="column">
-								<img src="images/11.JPG" style="width:100%"/>
+								<img src="images/logos/s.jpg" style="width:100%"/>
+								 <p> SQL </p>
 	                                                </div>
 							 <div class="column">
-								<img src="images/15.JPG" style="width:100%"/>
+								<img src="images/logos/t.jpg" style="width:100%"/>
+								 <p> Tableau </p> 
+	                                                </div>
+							 <div class="column">
+								<img src="images/logos/ga.png" style="width:100%"/>
+								 <p> Tableau </p> 
+	                                                </div>
+							 <div class="column">
+								<img src="images/logos/p.png" style="width:100%"/>
+								 <p> Python </p> 
+	                                                </div>
+							 <div class="column">
+								<img src="images/logos/rmarkdown.png" style="width:100%"/>
+								 <p> R Markdown </p> 
 	                                                </div>
 							
-								<h3> Image and Video Editing </h3>
+								<h3> Image/Video/Music Editing </h3>
 						
 						<div class="row">
 							<div class="column">
