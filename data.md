@@ -10,7 +10,7 @@
 							<h3>I was recently awarded a Second Class Honours grade from DCU business school for Data Analytics and Visualization </h3>
 					<div class="row">
 							<article class="col-6 col-12-xsmall work-item">
-								<embed src="files/Document.pdf" type="application/pdf" width="120%" height="2000px" scrollbar=1/>
+								<embed src="files/Document.pdf" type="application/pdf" width="120%" height="1000px" scrollbar=1/>
 								
 							</article>
 						
