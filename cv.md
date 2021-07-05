@@ -67,6 +67,14 @@
 								<img src="images/logos/rmarkdown.png" style="width:100%"/>
 								 <p> R Markdown </p> 
 	                                                </div>
+							 <div class="column">
+								<img src="images/logos/bl.png" style="width:100%"/>
+								 <p> Blender </p> 
+						         </div>
+								 <div class="column">
+								<img src="images/logos/gg.png" style="width:100%"/>
+								 <p> GIMP </p>
+								 </div>
 							<div class="column">
 								<img src="images/logos/ps.png" style="width:100%"/>
 								<p> Adobe Photoshop </p>
@@ -82,15 +90,7 @@
 							 <div class="column">
 								<img src="images/logos/au.png" style="width:100%"/>
 								 <p> Audacity </p>
-							 <div class="column">
-								<img src="images/logos/bl.png" style="width:100%"/>
-								 <p> Blender </p> 
-						         </div>
-								 <div class="column">
-								<img src="images/logos/gg.png" style="width:100%"/>
-								 <p> GIMP </p>
-								 </div>
-						
+							
 
 
 
