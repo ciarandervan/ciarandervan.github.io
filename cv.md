@@ -34,10 +34,10 @@
 						
 						<div class="row">
                                               <div class="column">
-							 <img src="images/ae.png" alt="After Effects", width=100%/> 
+							 <img src="images/ae.png" alt="After Effects", width=100% > 
 							</div>
 					    <div class="column">
-							<img src="images/ps.png" alt="Photoshop", width=100%/>
+							<img src="images/ps.png" alt="Photoshop", width=100% />
 						         </div>	
                                               <div class="column">
 							<img src="images/gg.png" alt="GIMP", width=100%/>
