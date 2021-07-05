@@ -66,6 +66,7 @@
 								 <p> R Markdown </p> 
 	                                                </div>
 							<div class="column">
+								<img src="images/logos/16x16.png" style="width:100%" />
 							</div>
 						
 							
@@ -98,7 +99,6 @@
 								 <p> Audacity </p>
 	                                                </div>
 						
-		
  <body>
 									<a href="https://ciarandervan.github.io"><h3 style="color:rgb(13, 192, 168)">Back to Home</h3></a>
 								 </body>
