@@ -8,7 +8,7 @@
 							</article>
              
 	
-							<style>
+<style>
 * {
   box-sizing: border-box;
 }
@@ -61,26 +61,6 @@
 						<div class="column">
 							<img src="images/s.jpg" alt="SQL", width=100%/>
 						         </div>
-					
-						<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-<div class="row">
 							
 							<div class="column">
 								<img src="images/12.JPG" style="width:100%"/>
