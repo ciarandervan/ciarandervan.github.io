@@ -37,7 +37,7 @@
 	</style>
 
 
-		 <h2> Proficiencies </h2>
+		 <h3> Proficiencies </h3>
 						
 						
 						<div class="row">
