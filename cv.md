@@ -86,16 +86,17 @@
 								 <p> Adobe After Effects </p>
 	                                                </div>
 							 <div class="column">
-								<img src="images/logos/bl.png" style="width:100%"/>
-								 <p> Blender </p> 
-	                                                </div>
-							 <div class="column">
 								<img src="images/logos/pp.png" style="width:100%"/>
 								 <p> Adobe Premiere Pro </p>
 	                                                </div>
 							 <div class="column">
 								<img src="images/logos/au.png" style="width:100%"/>
 								 <p> Audacity </p>
+							 <div class="column">
+								<img src="images/logos/bl.png" style="width:100%"/>
+								 <p> Blender </p> 
+	                                                </div>
+							
 	                                                </div>
 						
  <body>
