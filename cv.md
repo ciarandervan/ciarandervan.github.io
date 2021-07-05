@@ -25,6 +25,7 @@
   clear: both;
   display: table;
 }
+	</style>
 
 
 		 <h2> Proficiencies </h2>
@@ -69,26 +70,7 @@
 								<img src="images/logos/16x16.png" style="width:100%" />
 							</div>
 						
-							</style>
 							
-							<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
 								
 								
 							<h3> Image, Video, and Audio Editing </h3>
