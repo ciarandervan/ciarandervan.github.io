@@ -12,10 +12,5 @@
 
 				<!-- Two -->
 					<section id="two">
-											<h3> Image and Video Editing </h3>
-					
-					<div class="row">
-                                          <div class="column">
-						 <img src="images/ae.png" alt="After Effects", style="width"=100% /> 
-						</div>
+									
 						
