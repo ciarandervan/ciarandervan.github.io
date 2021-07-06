@@ -1,4 +1,5 @@
-	
+<html>	
+	<h2> I enjoy making and editing Music, Videos and Multi-media art. Below is a list of the products I use to make things.</h2> 
 <style>
 * {
   box-sizing: border-box;
@@ -17,8 +18,7 @@
   display: table;
 }
 	</style>
-
-
+ 
 		 <h2> Proficiencies </h2>
 							<div class="column">
 								<img src="images/logos/ps.png" style="width:100%"/>
