@@ -41,6 +41,7 @@
 							</div>
 							 <div class="column">
 								<img src="images/logos/bl.png" style="width:100%"/>
+								 <p></p>
 								 <p> Blender </p> 
 						         </div>
 								 <div class="column">
