@@ -1,5 +1,5 @@
 <html>	
-	<h2> I enjoy making and editing Music, Videos and Multi-media art. Below is a list of the products I use to make things.</h2> 
+	<h1 style="color:rgb(13, 192, 168)"> I enjoy making and editing Music, Videos and Multi-media art.</h1> 
 	
 <style>
 * {
