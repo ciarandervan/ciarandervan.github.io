@@ -1,5 +1,5 @@
 <html>	
-	<h1 style="color:rgb(13, 192, 168)"> I enjoy making and editing Music, Videos and Multi-media art.</h1> 
+	<h1> I enjoy making and editing Music, Videos and Multi-media art.</h1> 
 	
 <style>
 * {
@@ -20,7 +20,7 @@
 }
 	</style>
  
-		 <h2> Proficiencies </h2>
+		 <h2 style="color:rgb(13, 192, 168)"> Proficiencies </h2>
 	
 	<div class="row">
 							<div class="column">
@@ -47,4 +47,8 @@
 								<img src="images/logos/gg.png" style="width:100%"/>
 								 <p> GIMP </p>
 								 </div>
+		
+		<body>
+								<a href="https://ciarandervan.github.io"><h3 style="color:rgb(13, 192, 168)">Back to Home</h3></a>
+							 </body>
 
