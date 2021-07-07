@@ -51,8 +51,12 @@
 								 <p> GIMP </p>
 								 </div>
 		
+		<h3> A few cool examples of stop motion and animation </h3>
 		<video width="480" height="320" controls="controls">
 <source src="images/aa.mp4" type="video/mp4">
+</video>
+		<video width="480" height="320" controls="controls">
+<source src="images/ac.mp4" type="video/mp4">
 </video>
 		
 		<body>
