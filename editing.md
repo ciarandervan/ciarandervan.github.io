@@ -22,7 +22,7 @@
 }
 	</style>
  
-		 <h2 style="color:rgb(13, 192, 168)"> Proficiencies </h2>
+		 <h2> Proficiencies </h2>
 	
 	<div class="row">
 							<div class="column">
@@ -57,6 +57,10 @@
 </video>
 		<video width="480" height="320" controls="controls">
 <source src="images/ac.mp4" type="video/mp4">
+</video>
+		
+	<video width="480" height="320" controls="controls">
+<source src="images/ab.mp4" type="video/mp4">
 </video>
 		
 		<body>
