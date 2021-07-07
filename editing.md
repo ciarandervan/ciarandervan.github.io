@@ -1,7 +1,7 @@
 <html>	
 	<h1> I enjoy making and editing Music, Videos and Multi-media art.</h1> 
 	
-	![ Alt text](ab.gif) / ! [](ab.gif)
+	<img src="images/ab.gif" width="50" height="50" />
 	
 <style>
 * {
