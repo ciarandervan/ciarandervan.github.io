@@ -14,14 +14,14 @@
     			<article class="col-6 col-12-xsmall work-item">
 							<embed src="files/phantom.pdf" type="application/pdf" width="120%" height="2000px" scrollbar= 1/>
 						</article>
-    			<article class="col-6 col-12-xsmall work-item">
-							<embed src="files/abstraction1.pdf.pdf" type="application/pdf" width="120%" height="2000px" scrollbar= 1/>
-            </article>
+    		<article class="col-6 col-12-xsmall work-item">
+							<embed src="files/abstraction1.pdf" type="application/pdf" width="120%" height="2000px" scrollbar= 1/>
+						</article>
     			<article class="col-6 col-12-xsmall work-item">
 							<embed src="files/kant 1.pdf" type="application/pdf" width="120%" height="2000px" scrollbar=1/>
 						</article>
     			<article class="col-6 col-12-xsmall work-item">
-							<embed src="files/kant2nd.pdf" type="application/pdf" width="120%" height="2000px" scrollbar=1/>
+							<embed src="files/kant 2nd.pdf" type="application/pdf" width="120%" height="2000px" scrollbar=1/>
     </article>
 							
 		<h3> Consciousness Essays </h3>
