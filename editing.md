@@ -1,6 +1,8 @@
 <html>	
 	<h1> I enjoy making and editing Music, Videos and Multi-media art.</h1> 
 	
+	![ Alt text](ab.gif) / ! [](ab.gif)
+	
 <style>
 * {
   box-sizing: border-box;
