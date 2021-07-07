@@ -15,7 +15,7 @@
 							<embed src="files/phantom.pdf" type="application/pdf" width="120%" height="2000px" scrollbar= 1/>
 						</article>
     			<article class="col-6 col-12-xsmall work-item">
-							<embed src="files.pdf" type="application/pdf" width="120%" height="2000px" scrollbar= 1/>
+							<embed src="files/abstraction.pdf.pdf" type="application/pdf" width="120%" height="2000px" scrollbar= 1/>
             </article>
     			<article class="col-6 col-12-xsmall work-item">
 							<embed src="files/kant 1.pdf" type="application/pdf" width="120%" height="2000px" scrollbar=1/>
