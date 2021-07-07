@@ -9,7 +9,7 @@
   <h3> Philosophy Essays </h3>
   <div class="row">
 						<article class="col-6 col-12-xsmall work-item">
-							<embed src="files/merleau-ponty.pdf" type="application/pdf" width="120%" height="2000px" scrollbar=1/>
+							<embed src="files/merlau-ponty.pdf" type="application/pdf" width="120%" height="2000px" scrollbar=1/>
 							</article>
     			<article class="col-6 col-12-xsmall work-item">
 							<embed src="files/phantom.pdf" type="application/pdf" width="120%" height="2000px" scrollbar= 1/>
@@ -35,7 +35,6 @@
     
             <h3> Psychology Essays  </h3>   
             <div class="row">
-						</article>
     			<article class="col-6 col-12-xsmall work-item">
 							<embed src="files/face recognition.pdf" type="application/pdf" width="120%" height="2000px" scrollbar=1/>
             </article>
