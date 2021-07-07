@@ -1,7 +1,7 @@
 <html>	
 	<h1> I enjoy making and editing Music, Videos and Multi-media art.</h1> 
 	
-	<img src="images/ab.gif" width="50" height="50" />
+	<img src="images/ab.gif" width="1000" height="10000" />
 	
 <style>
 * {
