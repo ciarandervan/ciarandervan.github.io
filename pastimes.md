@@ -48,7 +48,13 @@
 								<img src="images/d.png" style="width:100%"/>
 	                                                </div>
 							 <div class="column">
-								<img src="images/e.png" style="width:100%"/>
+								<img src="images/f.png" style="width:100%"/>
+	                                                </div>
+	                                                <div class="column">
+								<img src="images/g.png" style="width:100%"/>
+	                                                </div>
+							 <div class="column">
+								<img src="images/e.JPG" style="width:50%"/>
 	                                                </div>
 							
  <body>
