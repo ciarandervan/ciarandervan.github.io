@@ -54,7 +54,7 @@
 								<img src="images/g.png" style="width:100%"/>
 	                                                </div>
 							 <div class="column">
-								<img src="images/e.JPG" style="width:50%"/>
+								<img src="images/e.JPG" style="width:100%"/>
 	                                                </div>
 							
  <body>
