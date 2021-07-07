@@ -1,6 +1,10 @@
 
 <html>
   <h2> Here you will find some essays on a range of topics I find interesting </h2> 
+	
+	<body>
+									<a href="https://ciarandervan.github.io"><h3 style="color:rgb(13, 192, 168)">Back to Home</h3></a>
+								 </body>
   
   <h3> Philosophy Essays </h3>
   <div class="row">
@@ -55,4 +59,8 @@
     			<article class="col-6 col-12-xsmall work-item">
 							<embed src="files/swb in adult life.pdf" type="application/pdf" width="120%" height="2000px" scrollbar=1/>
     </article>
+	  
+	  <body>
+									<a href="https://ciarandervan.github.io"><h3 style="color:rgb(13, 192, 168)">Back to Home</h3></a>
+								 </body>
     		
