@@ -35,6 +35,21 @@
 							 <div class="column">
 								<img src="images/15.JPG" style="width:100%"/>
 	                                                </div>
+	                                                <div class="column">
+								<img src="images/a.png" style="width:100%"/>
+	                                                </div>
+							 <div class="column">
+								<img src="images/b.png" style="width:100%"/>
+	                                                </div>
+							 <div class="column">
+								<img src="images/c.png" style="width:100%"/>
+	                                                </div>
+							 <div class="column">
+								<img src="images/d.png" style="width:100%"/>
+	                                                </div>
+							 <div class="column">
+								<img src="images/e.png" style="width:100%"/>
+	                                                </div>
 							
  <body>
 									<a href="https://ciarandervan.github.io"><h3 style="color:rgb(13, 192, 168)">Back to Home</h3></a>
