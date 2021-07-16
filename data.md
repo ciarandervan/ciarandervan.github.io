@@ -73,6 +73,10 @@
 								<img src="images/logos/rmarkdown.png" style="width:100%"/>
 								 <p> R Markdown </p> 
 							</div>
+							<div class="column">
+								<img src="images/jup.png" style="width:100%"/>
+								 <p> Jupyter & Anaconda </p> 
+							</div>
 									
 
 							 <body>
