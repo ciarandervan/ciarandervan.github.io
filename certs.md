@@ -29,6 +29,10 @@
 								<embed src="files/Hubspot Cert.pdf" type="application/pdf" width="100%" height="300px" />
 								<p>Hubspot CRM course.</p>
                             </article>
+								<article class="col-6 col-12-xsmall work-item">
+								<embed src="files/powerpoint.pdf" type="application/pdf" width="100%" height="300px" />
+								<p>Powerpoint course.</p>
+								</article>
                             <article class="col-6 col-12-xsmall work-item">
 								<embed src="files/csharpbeginnercertificate.pdf" type="application/pdf" width="100%" height="300px" />
                                 <p>C sharp beginner course.</p>
