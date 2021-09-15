@@ -53,7 +53,7 @@
 		
 		<h3> A few cool examples of stuff </h3>
 		<video width="480" height="320" controls="controls">
-<source src="images/subwaypoem.mp4" type="video/mp4">
+<source src="subwaypoem.mp4" type="video/mp4">
 </video>
 		<video width="480" height="320" controls="controls">
 <source src="images/aa.mp4" type="video/mp4">
