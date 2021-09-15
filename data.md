@@ -14,7 +14,11 @@
 								
 							</article>
 						
-						 
+						<h3> Below you will find an example of an article I wrote utilizing Jamovi for the data analysis</h3>
+						 <article class="col-6 col-12-xsmall work-item">
+								<embed src="files/jamovi.pdf" type="application/pdf" width="120%" height="1000px" scrollbar=1/>
+								
+							</article>
 				<!-- Two -->
 					<section id="two">
 						<style>
