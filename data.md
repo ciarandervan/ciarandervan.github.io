@@ -19,6 +19,11 @@
 								<embed src="files/jamovi.pdf" type="application/pdf" width="120%" height="1000px" scrollbar=1/>
 								
 							</article>
+						<h3> An example of Choropleth Maps I made with Python using data gathered by the Department of Agriculture</h3>
+						 <article class="col-6 col-12-xsmall work-item">
+								<embed src="images/forestry and hedgegrow map.png" type="application/pdf" width="120%" height="1000px" scrollbar=1/>
+								
+							</article>
 				<!-- Two -->
 					<section id="two">
 						<style>
