@@ -21,8 +21,8 @@
 							</article>
 						<h3> An example of Choropleth Maps I made with Python using data gathered by the Department of Agriculture</h3>
 						 <article class="col-6 col-12-xsmall work-item">
-								<img src="images/forestry and hedgegrow map.png"  style=width:"100%" />
-							</article>
+								<img src="images/forestry and hedgegrow map.png"  style="width:100%"/>
+						</article>
 						
 				<!-- Two -->
 					<section id="two">
